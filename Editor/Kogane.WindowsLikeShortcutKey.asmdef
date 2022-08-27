@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.WindowsLikeShortcutKey",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_EDITOR_OSX"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

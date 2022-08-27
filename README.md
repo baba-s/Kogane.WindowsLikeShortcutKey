@@ -1,1 +1,1 @@
-# Kogane.WindowsLikeShortcutKey
+# Kogane Windows Like Shortcut Key
